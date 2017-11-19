@@ -31,4 +31,4 @@
     		    index.ts
 
     actions are classes: import * as ModuleName from './module-name.actions'
-    reducer is function: import * as moduleName from './module.reducer'
+    reducer is function: import * as moduleName from './module-name.reducer'
